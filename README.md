@@ -4,7 +4,7 @@
   <i>⚡️Version control: Because breaking production should be a team effort.⚡️</i>
 </h5>
 <br/>
-<img src="https://media1.tenor.com/m/QUdqYaj8dNYAAAAC/rick-and-morty-rick.gif" width="43%" alt="" align="right"/>
+<img src="https://media1.tenor.com/m/QUdqYaj8dNYAAAAC/rick-and-morty-rick.gif" width="42%" alt="" align="right"/>
 
 ### 🚀 More about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="23px">
 <ul>
