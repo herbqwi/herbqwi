@@ -1,4 +1,4 @@
-## Hey 👋
+## Hey, I'm Omar 👋
  
 <h5 align="center">
   <i>⚡️Version control: Because breaking production should be a team effort.⚡️</i>
