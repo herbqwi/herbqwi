@@ -1,7 +1,7 @@
 ## Hey, I'm Omar 👋
  
 <h5 align="center">
-  <i>⚡️Version control: Because breaking production should be a team effort.⚡️</i>
+  <i>⚡️Good architecture anticipates change. Great architecture embraces it.⚡️</i>
 </h5>
 <br/>
 <img src="https://media1.tenor.com/m/QUdqYaj8dNYAAAAC/rick-and-morty-rick.gif" width="42%" alt="" align="right"/>
